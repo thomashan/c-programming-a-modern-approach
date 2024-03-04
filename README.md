@@ -7,6 +7,9 @@ Shortcuts may differ for different OSes.
 There a multiple compilers for C code. 
 The most popular are `clang` and `gcc`. I have decided to use `clang` which is bundled with `XCode`.
 
+As I worked through the exercises more and more, I noticed that I knew most of the concepts and decided to skip almost all of them apart from the advanced topics which I needed to work on.
+
+
 ## Visual Studio Code Settings
 Install the `C/C++` extension from `Microsoft`.
 
