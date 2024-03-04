@@ -59,7 +59,7 @@ void draw(int height, int constrainedWidth) {
   printf("\n");
 }
 
-int main() {
+int main(void) {
   assert(getTrailingSpaces(6, 5) == 0);
   assert(getTrailingSpaces(6, 4) == 1);
   assert(getTrailingSpaces(6, 3) == 2);

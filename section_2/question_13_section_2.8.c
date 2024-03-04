@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
   int p, q, a = 0;
   /*
   1.  a

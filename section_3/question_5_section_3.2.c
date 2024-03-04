@@ -1,18 +1,18 @@
 #include <stdio.h>
 
-int readInt() {
+int readInt(void) {
   int input;
   scanf("%d", &input);
   return input;
 }
 
-float readFloat() {
+float readFloat(void) {
   float input;
   scanf("%f", &input);
   return input;
 }
 
-int main() {
+int main(void) {
   printf("Enter item number: ");
   int itemNumber = readInt();
   printf("Enter unit price: ");

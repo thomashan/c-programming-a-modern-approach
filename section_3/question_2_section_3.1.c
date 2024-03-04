@@ -2,7 +2,7 @@
 
 #define CONSTANT 1234.123456789
 
-int main() {
+int main(void) {
   printf("%-8.1e\n", CONSTANT);
   printf("%10.6e\n", CONSTANT);
   printf("%-8.3f\n", CONSTANT);

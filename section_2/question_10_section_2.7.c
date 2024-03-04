@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
   // int 100_bottles; this is not a legal identifier
   int _100_bottles;
   int one__hundred_bottles;

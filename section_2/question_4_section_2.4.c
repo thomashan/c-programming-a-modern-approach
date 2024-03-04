@@ -11,7 +11,7 @@ int readInput() {
   return input;
 }
 
-int main() {
+int main(void) {
   printf("Enter height of box: ");
   int height = readInput();
   printf("Enter length of box: ");

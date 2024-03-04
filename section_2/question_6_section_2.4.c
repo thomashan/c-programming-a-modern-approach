@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
   int a, b, c, d, e, f;
   printf("a=%d, b=%d, c=%d, d=%d, e=%d, f=%d", a, b, c, d, e, f);
   // first run: a=72883088, b=1, c=68632312, d=1884979201, e=-2140535696, f=1

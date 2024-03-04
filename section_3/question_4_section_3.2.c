@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
   int day, month, year;
   printf("Enter a date (mm/dd/yy): ");
   scanf("%d/%d/%d", &month, &day, &year);

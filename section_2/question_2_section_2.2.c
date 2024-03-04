@@ -1,7 +1,7 @@
 #include <stdio.h>
 /* directive */
 
-main() {
+int main(void) {
   /* everything below this line is are statements */
   printf("Parkinson's Law:\nWork expands so as to ");
   printf("fill the time\n");
